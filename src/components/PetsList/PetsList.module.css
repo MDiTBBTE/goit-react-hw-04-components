@@ -1,0 +1,21 @@
+.list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 30px;
+  padding: 0;
+}
+
+.list__item {
+  width: fit-content;
+  text-align: center;
+  list-style: none;
+}
+
+.list__item:hover {
+  transform: scale(0.97);
+  transition: transform 0.3s ease-in-out;
+}
+
+.list__item__link {
+  text-decoration: none;
+}

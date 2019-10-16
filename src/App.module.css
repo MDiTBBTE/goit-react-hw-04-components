@@ -1,0 +1,23 @@
+body {
+  font-style: italic;
+}
+.nav {
+  background-color: dimgrey;
+}
+
+.nav__inner {
+  display: flex;
+  height: 50px;
+  align-items: center;
+}
+
+.nav__inner__item {
+  list-style: none;
+  margin-right: 20px;
+}
+
+.nav__inner__link {
+  text-decoration: none;
+  font-size: 22px;
+  color: azure;
+}
