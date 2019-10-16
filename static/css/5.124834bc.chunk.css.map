@@ -1,0 +1,1 @@
+{"version":3,"sources":["AboutPage.module.css"],"names":[],"mappings":"AAAA,0BACE,SAAU,CACV,aAAc,CACd,YAAa,CACb,qBAAsB,CACtB,kBAAmB,CACnB,cACF","file":"5.124834bc.chunk.css","sourcesContent":[".section {\n  width: 86%;\n  margin: 0 auto;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  flex-wrap: wrap;\n}\n"]}

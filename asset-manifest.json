@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-components/static/css/main.2151025d.chunk.css",
+    "main.js": "/goit-react-hw-04-components/static/js/main.13eb4bb0.chunk.js",
+    "main.js.map": "/goit-react-hw-04-components/static/js/main.13eb4bb0.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-04-components/static/js/runtime-main.ba76de7c.js",
+    "runtime-main.js.map": "/goit-react-hw-04-components/static/js/runtime-main.ba76de7c.js.map",
+    "static/js/2.cd4b0f3e.chunk.js": "/goit-react-hw-04-components/static/js/2.cd4b0f3e.chunk.js",
+    "static/js/2.cd4b0f3e.chunk.js.map": "/goit-react-hw-04-components/static/js/2.cd4b0f3e.chunk.js.map",
+    "static/css/3.a52718a8.chunk.css": "/goit-react-hw-04-components/static/css/3.a52718a8.chunk.css",
+    "static/js/3.2b1f72de.chunk.js": "/goit-react-hw-04-components/static/js/3.2b1f72de.chunk.js",
+    "static/js/3.2b1f72de.chunk.js.map": "/goit-react-hw-04-components/static/js/3.2b1f72de.chunk.js.map",
+    "static/css/4.c355b9bb.chunk.css": "/goit-react-hw-04-components/static/css/4.c355b9bb.chunk.css",
+    "static/js/4.68b9841d.chunk.js": "/goit-react-hw-04-components/static/js/4.68b9841d.chunk.js",
+    "static/js/4.68b9841d.chunk.js.map": "/goit-react-hw-04-components/static/js/4.68b9841d.chunk.js.map",
+    "static/css/5.124834bc.chunk.css": "/goit-react-hw-04-components/static/css/5.124834bc.chunk.css",
+    "static/js/5.ff4965f5.chunk.js": "/goit-react-hw-04-components/static/js/5.ff4965f5.chunk.js",
+    "static/js/5.ff4965f5.chunk.js.map": "/goit-react-hw-04-components/static/js/5.ff4965f5.chunk.js.map",
+    "index.html": "/goit-react-hw-04-components/index.html",
+    "precache-manifest.1de8c8f6294378b79206b983506286de.js": "/goit-react-hw-04-components/precache-manifest.1de8c8f6294378b79206b983506286de.js",
+    "service-worker.js": "/goit-react-hw-04-components/service-worker.js",
+    "static/css/3.a52718a8.chunk.css.map": "/goit-react-hw-04-components/static/css/3.a52718a8.chunk.css.map",
+    "static/css/4.c355b9bb.chunk.css.map": "/goit-react-hw-04-components/static/css/4.c355b9bb.chunk.css.map",
+    "static/css/5.124834bc.chunk.css.map": "/goit-react-hw-04-components/static/css/5.124834bc.chunk.css.map",
+    "static/css/main.2151025d.chunk.css.map": "/goit-react-hw-04-components/static/css/main.2151025d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba76de7c.js",
+    "static/js/2.cd4b0f3e.chunk.js",
+    "static/css/main.2151025d.chunk.css",
+    "static/js/main.13eb4bb0.chunk.js"
+  ]
+}
